@@ -1,27 +1,28 @@
 # Project Title
 
-Simple overview of use/purpose.
+My ai chatbot
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+An ai chatbot flask app.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- How/where to download your program
+- Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- How to run the program
+- Step-by-step bullets
+
 ```
 code blocks for commands
 ```
@@ -29,6 +30,7 @@ code blocks for commands
 ## Help
 
 Any advise for common problems or issues.
+
 ```
 command to run if program contains helper info
 ```
@@ -39,21 +41,24 @@ Contributors names and contact info
 
 ex. Mr Jones
 ex. [@benpaddlejones](https://github.com/benpaddlejones)
+ex. Flynn Hawthorne
+ex. [@FHawthorne](https://github.com/FHawthorne?tab=overview&from=2026-08-01&to=2026-08-31)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]() or see [branch]()
-* 0.1
-    * Initial Release
+- 0.2
+  - Various bug fixes and optimizations
+  - See [commit change]() or See [release history]() or see [branch]()
+- 0.1
+  - Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Flynn Hawthorne] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+
+- [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
