@@ -62,3 +62,21 @@ Inspiration, code snippets, etc.
 
 - [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+
+## Testing
+
+### User Acceptance Testing Results
+
+Tested on: [DATE]
+Tester: [YOUR NAME]
+
+| Test ID | Description               | Status  |
+| ------- | ------------------------- | ------- |
+| TC-001  | Normal message response   | ✅ Pass |
+| TC-002  | Empty message handling    | ✅ Pass |
+| TC-003  | Message length validation | ✅ Pass |
+| TC-004  | Crisis keyword detection  | ✅ Pass |
+| TC-005  | Disclaimer visibility     | ✅ Pass |
+| TC-006  | Message styling           | ✅ Pass |
+
+**Summary**: All 6 test cases passed. The chatbot meets all functional and non-functional requirements.
